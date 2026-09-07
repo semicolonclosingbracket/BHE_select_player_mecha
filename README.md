@@ -2,7 +2,7 @@
   This project is a mod for the game BALDR HEART EXE, allowing to select other mecha as the player mecha.
 
   # (1) How to install
-  Download the file BHE_select_player_mecha.pac, rename it as "Update[?].pac", where [?] is a number between 2~9, the final filename should be like "Update3.pac" or "Update6.pac".
+  Download the file BHE_select_player_mecha.pac, copy it to the directory of the gmae, rename it as "Update[?].pac", where [?] is a number between 2~9, the final filename should be like "Update3.pac" or "Update6.pac".
   
   After the installation, **enter the config menu and turn off the option of "ネットワークへの接続 (connection to Internet)"**, as the mod cannot be used when there is connection to Internet.
 
