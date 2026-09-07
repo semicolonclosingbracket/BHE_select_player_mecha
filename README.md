@@ -7,14 +7,16 @@
   After the installation, **enter the config menu and turn off the option of "ネットワークへの接続 (connection to Internet)"**, as the mod cannot be used when there is connection to Internet.
 
   # (2) Swift the player mecha
-  The mod will replace Level 1~3. The map of all the three levels is "Black background", if they are still the original levels, then the installation of the mod was failed.
+  The mod will replace Stage 1~3. The map of all the three stages is "Black background", if they are still the original stages, then the installation of the mod was failed.
   
   Here are the functions of the three levels:
   
-  Level 1 : Swift the player mecha from Sou to the mecha selected as the practicing enemy.
+  Stage 1 : Swift the player mecha from Sou to the mecha selected as the practising enemy.
   
-  Level 2 : Load a portion of the resource (such as pictures and sounds) of the current player mecha. When accessing a level, the resource of Sou and the enemies is loaded. If the current player mecha is not included in them, the game will crush. **So Level 2 must be accessed before accessing a level without the current player mecha.** However, if the current player mecha is one of the enemies of the level, there should be no resource from Level 2 has been loaded (or it will disturb the A.I. of the enemy). If there is already, access Level 3 to unload the resource from Level 2.
+  Stage 2 : Load a portion of the resource (such as pictures and sounds) of the current player mecha. When accessing a stage, the resource of Sou and the enemies is loaded. If the current player mecha is not included in them, the game will crush. **So Stage 2 must be accessed before accessing a stage without the current player mecha.** However, if the current player mecha is one of the enemies of the stage, there should be no resource from Stage 2 has been loaded (or it will disturb the A.I. of the enemy). If there is already, access Stage 3 to unload the resource from Stage 2.
   
-  Level 3 : Unload a portion of the resource of the current player mecha.
+  Stage 3 : Unload a portion of the resource of the current player mecha.
   
-  After clicking the "START" button on the startup screen, the player mecha is always set as Sou / Schwertiger (which is always refered as "Sou" in the following text). To swift the player mecha, select the mecha which the player mecha will be swifted to as the practicing enemy. Then access Level 1.
+    After clicking the "START" button on the startup screen, the player mecha is always set as Sou / Schwertiger (which is always refered as "Sou" in the following text). To swift the player mecha, select the mecha which the player mecha will be swifted to as the practising enemy. Then access Stage 1, return to the Practice menu, the player mecha should has been swifted. Before changing the weapon config, **please choose a different weapon set first**, because when the Practice / Equipment menu is just accessed, the shown weapon set is the last weapon set of Sou, and it should not be adjusted when the current player mecha is not Sou.
+
+    After preparing the weapon config, enter the stage selecting menu. If the current player mecha is one of the enemies of the stage to play, just access the stage; If it is not, access Stage 2, return to the stage selecting menu, then access the stage to play.
