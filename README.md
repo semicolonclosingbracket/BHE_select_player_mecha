@@ -7,7 +7,7 @@
   After the installation, **enter the config menu and turn off the option of "ネットワークへの接続 (connection to Internet)"**, as the mod cannot be used when there is connection to Internet.
 
   # (2) Swift the player mecha
-  The mod will replace Stage 1~3. The map of all the three stages is "Black background", if they are still the original stages, then the installation of the mod was failed.
+  The mod will replace Stage 1~3, The map of all the three stages is "Black background". If they are still the original stages, then the installation of the mod was failed.
   
   Here are the functions of the three levels:
   
