@@ -19,7 +19,7 @@
   
   After clicking the "START" button on the startup screen, the player mecha is always set as Sou / Schwertiger (which is always refered as "Sou" in the following text). To swift the player mecha, select the mecha which the player mecha will be swifted to as the practising enemy. Then access Stage 1, return to the Practice menu, the player mecha should has been swifted. Before changing the weapon config, **please choose a different weapon set first**, because when the Practice / Equipment menu is just accessed, the shown weapon set is the last weapon set of Sou, and it should not be adjusted when the current player mecha is not Sou.
 
-  After preparing the weapon config, enter the stage selecting menu. If the current player mecha is one of the enemies of the stage to play, just access the stage; If it is not, access Stage 2, return to the stage selecting menu, then access the stage to play.
+  After preparing the weapon config, enter the stage selecting menu. If the current player mecha is one of the enemies of the stage to play, just access the stage (if Stage 2 has been accessed, access Stage 3); If it is not, access Stage 2, return to the stage selecting menu, then access the stage to play.
 
   # (3) Playing the Replay records
   Since the player mecha is always Sou in the unmodded game, when playing the Replay records, the game assumes the player mecha is Sou and only load the resource of Sou and the enemies. To play a Replay record made with non-Sou player mecha, the player mecha must already be swifted to the one when the replay was made, and access Stage 2 to load its resource if it is required.
